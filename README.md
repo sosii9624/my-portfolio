@@ -19,6 +19,7 @@ My portfolio contains practical projects , scripts and reports demonstrating my 
 
 ## projects 
 1. **metasploitable 2 vulnerablity Assesment**https://github.com/sosii9624/metasploitable2-vulnerability-assessment-portfolio.git
+2. **Web Application Security Testing - OWASP juice shop testing https://github.com/sosii9624/owasp-juice-shop-testing.git
 
 ##contact 
 -GitHub:
